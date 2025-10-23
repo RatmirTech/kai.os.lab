@@ -1,0 +1,4 @@
+src_folder
+
+res_folder/src_folder:
+rename.txt
